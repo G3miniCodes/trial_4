@@ -1,0 +1,13 @@
+# Auto-generated requirements for converted code
+# Review and pin versions as appropriate before deploying
+# Python >= 3.12  (generated on 3.12.10)
+
+evaluation
+joblib
+models
+pandas
+predict_pipeline
+preprocessing
+scikit-learn
+train_pipeline
+utils
