@@ -1,0 +1,10 @@
+
+model:
+  type: random_forest
+  n_trees: 100
+
+data:
+  test_size: 0.2
+
+paths:
+  raw_data: data/raw/telecom_churn.csv
